@@ -1,4 +1,4 @@
-# Text Summarization
+# text-summarization
 This is a artificial intelligence based project that produces the summary of the
 given text.
 
