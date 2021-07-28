@@ -1,4 +1,10 @@
 # Text Summarization
+This is a artificial intelligence based project that produces the summary of the
+given text.
+
+## Authors
+* Akhilesh Kumar Verma
+* Akhil
 ## Introduction
 The text Summarizer it is meant for a software that extracts various moods of
 the extract and provide a consise and complete idea of the extract without going
